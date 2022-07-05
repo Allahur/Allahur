@@ -1,4 +1,5 @@
-#Meu nome fictício é Allahur, podem me chamar de Otavio is my real name.
+#Meu nome fictício é Allahur.
+#podem me chamar de Otavio is my real name.
 #Estou estudando ADS !
 #Estou criando alguns projetos em Python e C.
 #Não tenho incentivo em ajudar em algo.
