@@ -6,19 +6,19 @@
 
 </p1><p1><p1>
 
-###### Olá, meu nome é Otavio.
+###### - Olá, meu nome é Otavio.
 
-###### Estou cursando o 2° semestre do ensino superior.
+###### - Estou cursando o 2° semestre do ensino superior.
 
-###### Fatec - Dom Paulo Evaristo Arns - Zona Sul
+###### - Fatec - Dom Paulo Evaristo Arns - Zona Sul
 
-###### Gosto de programar em C e Python !
+###### - Gosto de programar em C e Python !
 
-###### Tenho 18 anos.
+###### - Tenho 18 anos.
   
-###### Apenas faço projetos ou alguns códigos para uso próprio, treino e praticar !
+###### - Apenas faço projetos ou alguns códigos para uso próprio, treino e praticar !
   
-###### Provavelmente vou mudar alguma coisa em um futuro próximo...
+###### - Provavelmente vou mudar alguma coisa em um futuro próximo...
   
   # Instagram
  $ https://www.instagram.com/allahur._/
