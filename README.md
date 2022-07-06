@@ -1,5 +1,5 @@
 <h1 align"center"> 
-<img src="https://dbdzm869oupei.cloudfront.net/img/alfombretaratoli/preview/21840.png">
+<img src="https://br.pinterest.com/pin/643381496761513688/">
 </h1>
 
 ### Sobre mim
