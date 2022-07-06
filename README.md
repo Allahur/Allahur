@@ -20,8 +20,6 @@
   
 ###### Provavelmente vou mudar alguma coisa em um futuro próximo...
   
-# Sites
-
   # Instagram
  $ https://www.instagram.com/allahur._/
  
