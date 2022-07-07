@@ -5,6 +5,7 @@
 ### Sobre mim
 
 ###### - Olá, meu nome é Otavio.
+</p1>
 ###### - Estou cursando o 2° semestre do ensino superior.
 ###### - Fatec - Dom Paulo Evaristo Arns - Zona Sul
 ###### - Gosto de programar em C e Python !
