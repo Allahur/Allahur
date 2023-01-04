@@ -6,7 +6,7 @@
 
 ###### - Olá, meu nome é Otavio.
 
-###### - Estou cursando o 2° semestre do ensino superior.
+###### - Estou cursando o 3° semestre do ensino superior.
 
 ###### - Fatec - Zona Sul
 
