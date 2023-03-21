@@ -1,5 +1,5 @@
 # 👾 About Me:
-😌 Meus TCC's ainda estou pensando, mas pretendo fazer algo com base em; banco digital, IA, sistema operacional, Robô.<br><br>🥶 Estou atualmente estudando Python para análise de dados, machine learning e IA.<br><br>😌 Relax and Learning.<br><br>😎 Escutar músicas durante o dia, Juice WRLD and Raul Seixas.
+👻 Meus TCC's ainda estou pensando, mas pretendo fazer algo com base em; banco digital, IA, sistema operacional, Robô.<br><br>🥶 Estou atualmente estudando Python para análise de dados, machine learning e IA.<br><br>😌 Relax and Learning.<br><br>😎 Escutar músicas durante o dia, Juice WRLD and Raul Seixas.
 
 
 # 💻 Tech Stack:
