@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FFFFFF&vCenter=true&width=300&height=40&lines=About+me%3A)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00F7EC&background=FFFFFF&vCenter=true&width=435&lines=About+me%3A)](https://git.io/typing-svg)
 
 
 👻 Meus TCC's ainda estou pensando, mas pretendo fazer algo com base em; banco digital, IA, sistema operacional, Robô.<br><br>🥶 Estou atualmente estudando Python para análise de dados, machine learning e IA.<br><br>😌 Relax and Learning.<br><br>😎 Escutar músicas durante o dia, Juice WRLD and Raul Seixas.<br></br>🇧🇷
