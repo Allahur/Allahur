@@ -2,7 +2,7 @@
 ---
 
 👻 Meu TCC ainda estou pensando, mas vai alguma coisa doida aí.<br><br>🥶 Estou atualmente estudando Python para análise de dados, machine learning e IA, fora isso depois vou estudar Java, Kotlin e Rustlang.<br><br>
-<br><br>Minha cabeça decide minhas loucuras.<br><br>😌 Relax and Learning.<br><br>😎 Escutar músicas durante o dia, Juice WRLD and Raul Seixas. 
+<br>Minha cabeça decide minhas loucuras.<br><br>😌 Relax and Learning.<br><br>😎 Escutar músicas durante o dia, Juice WRLD and Raul Seixas. 
 
 ---
 
