@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=F7F7F7&width=500&height=90&lines=+Doideiras+e+Maluquices%3A)](https://git.io/typing-svg)
 ---
 
-👻 Meus TCC's ainda estou pensando, mas pretendo fazer algo com base em; banco digital, IA, sistema operacional, Robô.<br><br>🥶 Estou atualmente estudando Python para análise de dados, machine learning e IA.<br><br>😌 Relax and Learning.<br><br>😎 Escutar músicas durante o dia, Juice WRLD and Raul Seixas.
+👻 Meus TCC's ainda estou pensando, mas vai alguma coisa doida aí.<br><br>🥶 Estou atualmente estudando Python para análise de dados, machine learning e IA.<br><br>😌 Relax and Learning.<br><br>😎 Escutar músicas durante o dia, Juice WRLD and Raul Seixas.
 
 ---
 
